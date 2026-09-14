@@ -33,9 +33,7 @@ $$
 for recurrence probability and recurrence rate respectively.
 
 #### Relative Risk and Odds Ratio
-Relative risks and odds ratios were calculated to compare the risk of recurrence between treatment groups. Comparisons were made between Pyridoxine and Placebo, Thiotepa and Placebo, and Pyridoxine and Thiotepa. The results were presented in a table and interpreted to assess the relative risk and odds of recurrence between treatments.
-
-Relative Risk
+Relative risks and odds ratios were calculated to compare the risk of recurrence between treatment groups. Comparisons were made between Pyridoxine and Placebo, Thiotepa and Placebo, and Pyridoxine and Thiotepa. The results were presented in a table and interpreted to assess the relative risk and odds of recurrence between treatments. The formulae used are:
 
 $$
 \text{Relative Risk} =
@@ -43,21 +41,20 @@ $$
 {\text{P(Recurrence | Treatment B)}}
 $$
 
-Odds Ratio
-
 $$
 \text{Odds Ratio} =
 \frac{\text{odds(Recurrence | Treatment A)}}
 {\text{odds(Recurrence | Treatment B)}}
 $$
 
-given odds are calculated as 
+for relative risk and odds ratio respectively, and given
 
 $$
 \text{odds} = \frac{{p}}{1-p}
 $$
 
 Where p is the recurrence probability.
+
 #### Survival Analysis
 
 Survival analysis was conducted to account for the time until recurrence and differences in patient follow-up.
