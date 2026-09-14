@@ -16,15 +16,13 @@ For the purpose of this analysis, the data were often modified to account for un
 The follwong statistical methods were used to investigate the risk of bladder cancer recurrence.
 
 #### Recurrence Probability and Recurrence Rate
-Recurrence probability and recurrence rate were calculated separately for each treatment group. Recurrence probability represents the proportion of patients who experienced at least one recurrence during the study period and was calculated as:
+Recurrence probability and recurrence rate were calculated and compared between treatment groups, and he the results were interpreted and presented as a table. The data were modified to account for unique patients that have experienced one or more recurrences.  The formulae that were used are:
 
 $$
-P(\text{Recurrence}) =
+\text{Recurrence Probability} =
 \frac{\text{Number of patients experiencing a recurrence}}
 {\text{Total number of patients}}
 $$
-
-Recurrence rate accounts for differences in the amount of time for which patients were observed. It was calculated as the number of recurrence events divided by the total person-time at risk:
 
 $$
 \text{Recurrence Rate} =
@@ -32,7 +30,7 @@ $$
 {\text{Total person-time at risk}}
 $$
 
-The calculated recurrence probabilities and rates for each treatment group were presented in a table.
+for recurrence probability and recurrence rate respectively.
 
 #### Relative Risk and Odds Ratio
 Relative risks and odds ratios were calculated to compare the risk of recurrence between treatment groups. Comparisons were made between Pyridoxine and Placebo, Thiotepa and Placebo, and Pyridoxine and Thiotepa. The results were presented in a table and interpreted to assess the relative risk and odds of recurrence between treatments.
